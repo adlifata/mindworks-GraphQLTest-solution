@@ -3,6 +3,7 @@
 This Graphql App is deployed on https://ancient-savannah-96379.herokuapp.com/graphql
 
 Available query
+
     getAllComments{
         postId
         id
