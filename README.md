@@ -1,0 +1,1 @@
+# mindworks-graphql-solution
