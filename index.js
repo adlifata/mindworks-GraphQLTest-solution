@@ -4,7 +4,7 @@ const port = 3001;
 const { graphqlHTTP } = require("express-graphql");
 const schema = require("./Schema/");
 
-app.get('/',(req,res)=> res.send("go to /grapql"));
+app.get('/',(req,res)=> res.send("https://ancient-savannah-96379.herokuapp.com/graphql"));
 
 app.use(
   "/graphql",
