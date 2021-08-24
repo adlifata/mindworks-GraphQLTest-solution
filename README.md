@@ -1,8 +1,15 @@
-## Mindworks Graphql Test Solution
+# Mindworks Graphql Test Solution
 
-This Graphql App is deployed on https://ancient-savannah-96379.herokuapp.com/graphql
+## Consuming these following endpoints
+- Comments endpoint – https://jsonplaceholder.typicode.com/comments
+- View Single Post endpoint – https://jsonplaceholder.typicode.com/posts/{post_id}
+- View All Posts endpoint – https://jsonplaceholder.typicode.com/posts
 
-Available query
+
+## This Graphql App is deployed on
+https://ancient-savannah-96379.herokuapp.com/graphql
+
+## Available query
 
     getAllComments{
         postId
